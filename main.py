@@ -16,7 +16,7 @@ prefixo = "https://fbref.com"
 dataframes = [] 
 
 # Data de início para extração
-data_inicio = datetime.strptime('2024-11-11', '%Y-%m-%d')
+data_inicio = datetime.strptime('2024-12-02', '%Y-%m-%d')
 
 # Número máximo de tentativas falhadas
 max_falhas = 2

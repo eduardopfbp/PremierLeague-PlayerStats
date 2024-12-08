@@ -112,9 +112,30 @@ Sem,Dia,Data,Horário,Em casa,xG,Resultado,xG,Visitante,Público,Local,Árbitro,
 12,sáb,2024-11-23,12:30,Leicester City,1.1,1–2,2.7,Chelsea,31.880,King Power Stadium,Andy Madley,Relatório da Partida,,/pt/partidas/bb885467/Leicester-City-Chelsea-2024Novembro23-Premier-League
 12,sáb,2024-11-23,15:00,Arsenal,1.2,3–0,0.3,Nott'ham Forest,60.298,Emirates Stadium,Simon Hooper,Relatório da Partida,,/pt/partidas/0cb4129b/Arsenal-Nottingham-Forest-2024Novembro23-Premier-League
 12,sáb,2024-11-23,15:00,Bournemouth,1.6,1–2,0.9,Brighton,11.196,Vitality Stadium,Stuart Attwell,Relatório da Partida,,/pt/partidas/4708a5bf/Bournemouth-Brighton-and-Hove-Albion-2024Novembro23-Premier-League
-12,sáb,2024-11-23,15:00,Aston Villa,3.0,2–2,1.3,Crystal Palace,,Villa Park,Tim Robinson,Relatório da Partida,,/pt/partidas/bf2e07a1/Aston-Villa-Crystal-Palace-2024Novembro23-Premier-League
+12,sáb,2024-11-23,15:00,Aston Villa,3.0,2–2,1.3,Crystal Palace,42.175,Villa Park,Tim Robinson,Relatório da Partida,,/pt/partidas/bf2e07a1/Aston-Villa-Crystal-Palace-2024Novembro23-Premier-League
 12,sáb,2024-11-23,15:00,Everton,1.2,0–0,1.1,Brentford,38.915,Goodison Park,Chris Kavanagh,Relatório da Partida,,/pt/partidas/dd7675a7/Everton-Brentford-2024Novembro23-Premier-League
-12,sáb,2024-11-23,15:00,Fulham,1.0,1–4,1.3,Wolves,,Craven Cottage,Robert Jones,Relatório da Partida,,/pt/partidas/ed24aeb8/Fulham-Wolverhampton-Wanderers-2024Novembro23-Premier-League
-12,sáb,2024-11-23,17:30,Manchester City,2.1,0–4,2.5,Tottenham,,Etihad Stadium,John Brooks,Relatório da Partida,,/pt/partidas/c48b896c/Manchester-City-Tottenham-Hotspur-2024Novembro23-Premier-League
+12,sáb,2024-11-23,15:00,Fulham,1.0,1–4,1.3,Wolves,26.685,Craven Cottage,Robert Jones,Relatório da Partida,,/pt/partidas/ed24aeb8/Fulham-Wolverhampton-Wanderers-2024Novembro23-Premier-League
+12,sáb,2024-11-23,17:30,Manchester City,2.1,0–4,2.5,Tottenham,52.478,Etihad Stadium,John Brooks,Relatório da Partida,,/pt/partidas/c48b896c/Manchester-City-Tottenham-Hotspur-2024Novembro23-Premier-League
 12,dom,2024-11-24,14:00,Southampton,1.3,2–3,3.1,Liverpool,31.278,St Mary's Stadium,Samuel Barrott,Relatório da Partida,,/pt/partidas/eb6f8e39/Southampton-Liverpool-2024Novembro24-Premier-League
-12,dom,2024-11-24,16:30,Ipswich Town,1.7,1–1,0.9,Manchester Utd,30.017,Portman Road Stadium,Anthony Taylor,Relatório da Partida,,/pt/partidas/db1e4ea5/Ipswich-Town-Manchester-United-2024Novembro24-Premier-League
+12,dom,2024-11-24,16:30,Ipswich Town,1.6,1–1,0.8,Manchester Utd,30.017,Portman Road Stadium,Anthony Taylor,Relatório da Partida,,/pt/partidas/db1e4ea5/Ipswich-Town-Manchester-United-2024Novembro24-Premier-League
+12,seg,2024-11-25,20:00,Newcastle Utd,1.6,0–2,0.9,West Ham,52.094,St James' Park,Craig Pawson,Relatório da Partida,,/pt/partidas/79f46eec/Newcastle-United-West-Ham-United-2024Novembro25-Premier-League
+13,sex,2024-11-29,20:00,Brighton,1.7,1–1,1.0,Southampton,,The American Express Stadium,Robert Jones,Relatório da Partida,,/pt/partidas/d38c4a31/Brighton-and-Hove-Albion-Southampton-2024Novembro29-Premier-League
+13,sáb,2024-11-30,15:00,Crystal Palace,1.7,1–1,0.0,Newcastle Utd,25.101,Selhurst Park,Darren England,Relatório da Partida,,/pt/partidas/a4f03af0/Crystal-Palace-Newcastle-United-2024Novembro30-Premier-League
+13,sáb,2024-11-30,15:00,Wolves,0.5,2–4,3.3,Bournemouth,,Molineux Stadium,Peter Bankes,Relatório da Partida,,/pt/partidas/adfb1b89/Wolverhampton-Wanderers-Bournemouth-2024Novembro30-Premier-League
+13,sáb,2024-11-30,15:00,Nott'ham Forest,1.6,1–0,0.6,Ipswich Town,,The City Ground,Tony Harrington,Relatório da Partida,,/pt/partidas/ddc8856c/Nottingham-Forest-Ipswich-Town-2024Novembro30-Premier-League
+13,sáb,2024-11-30,15:00,Brentford,2.4,4–1,1.1,Leicester City,17.084,Gtech Community Stadium,Michael Oliver,Relatório da Partida,,/pt/partidas/f4f9a64f/Brentford-Leicester-City-2024Novembro30-Premier-League
+13,sáb,2024-11-30,17:30,West Ham,1.5,2–5,3.5,Arsenal,,London Stadium,Anthony Taylor,Relatório da Partida,,/pt/partidas/f78bee62/West-Ham-United-Arsenal-2024Novembro30-Premier-League
+13,dom,2024-12-01,13:30,Chelsea,1.6,3–0,1.2,Aston Villa,,Stamford Bridge,Stuart Attwell,Relatório da Partida,,/pt/partidas/080b797b/Chelsea-Aston-Villa-2024Dezembro1-Premier-League
+13,dom,2024-12-01,13:30,Tottenham,0.8,1–1,1.5,Fulham,61.141,Tottenham Hotspur Stadium,Darren Bond,Relatório da Partida,,/pt/partidas/9aaa6ed5/Tottenham-Hotspur-Fulham-2024Dezembro1-Premier-League
+13,dom,2024-12-01,13:30,Manchester Utd,1.1,4–0,0.6,Everton,73.817,Old Trafford,John Brooks,Relatório da Partida,,/pt/partidas/e6eef20f/Manchester-United-Everton-2024Dezembro1-Premier-League
+13,dom,2024-12-01,16:00,Liverpool,3.4,2–0,0.8,Manchester City,60.248,Anfield,Chris Kavanagh,Relatório da Partida,,/pt/partidas/0bd6ad44/Liverpool-Manchester-City-2024Dezembro1-Premier-League
+14,ter,2024-12-03,19:30,Ipswich Town,0.5,0–1,1.6,Crystal Palace,29.533,Portman Road Stadium,Craig Pawson,Relatório da Partida,,/pt/partidas/f7a96e82/Ipswich-Town-Crystal-Palace-2024Dezembro3-Premier-League
+14,ter,2024-12-03,20:15,Leicester City,1.7,3–1,3.0,West Ham,30.947,King Power Stadium,Joshua Smith,Relatório da Partida,,/pt/partidas/355fd8ce/Leicester-City-West-Ham-United-2024Dezembro3-Premier-League
+14,qua,2024-12-04,19:30,Everton,1.0,4–0,0.8,Wolves,38.820,Goodison Park,Michael Salisbury,Relatório da Partida,,/pt/partidas/71f00b04/Everton-Wolverhampton-Wanderers-2024Dezembro4-Premier-League
+14,qua,2024-12-04,19:30,Newcastle Utd,2.1,3–3,1.9,Liverpool,52.237,St James' Park,Andy Madley,Relatório da Partida,,/pt/partidas/ca898c29/Newcastle-United-Liverpool-2024Dezembro4-Premier-League
+14,qua,2024-12-04,19:30,Manchester City,2.4,3–0,1.0,Nott'ham Forest,51.764,Etihad Stadium,Michael Oliver,Relatório da Partida,,/pt/partidas/dedb0eee/Manchester-City-Nottingham-Forest-2024Dezembro4-Premier-League
+14,qua,2024-12-04,19:30,Southampton,1.6,1–5,5.2,Chelsea,31.193,St Mary's Stadium,Tony Harrington,Relatório da Partida,,/pt/partidas/e4480630/Southampton-Chelsea-2024Dezembro4-Premier-League
+14,qua,2024-12-04,20:15,Arsenal,2.1,2–0,0.2,Manchester Utd,60.256,Emirates Stadium,Samuel Barrott,Relatório da Partida,,/pt/partidas/9938aa27/Arsenal-Manchester-United-2024Dezembro4-Premier-League
+14,qua,2024-12-04,20:15,Aston Villa,2.4,3–1,0.9,Brentford,,Villa Park,Lewis Smith,Relatório da Partida,,/pt/partidas/c24a734b/Aston-Villa-Brentford-2024Dezembro4-Premier-League
+14,qui,2024-12-05,19:30,Fulham,1.1,3–1,1.4,Brighton,26.368,Craven Cottage,Peter Bankes,Relatório da Partida,,/pt/partidas/32aaf579/Fulham-Brighton-and-Hove-Albion-2024Dezembro5-Premier-League
+14,qui,2024-12-05,20:15,Bournemouth,3.5,1–0,0.9,Tottenham,,Vitality Stadium,Simon Hooper,Relatório da Partida,,/pt/partidas/c7e59a0a/Bournemouth-Tottenham-Hotspur-2024Dezembro5-Premier-League
